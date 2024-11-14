@@ -1,1 +1,1 @@
-let register = "Registration Page";
+let register = "Registration Page for React";
